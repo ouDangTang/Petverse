@@ -1,4 +1,5 @@
 # Petverse MVP Vertical Slice
+https://petverse-psi.vercel.app/auth
 
 Next.js App Router + TypeScript MVP for a 3D animal raising loop with:
 
